@@ -36,3 +36,4 @@ These are compilations of commands and tools i use in solving the issues:
 	 - Source Control
 		 - Smartgit: smart git GUI is one of the best git versioning software i have ever come across. it is supports working with multiple repos and branches at the same time, amzaing commit graph (selecting "follow only first parent" allows you to only see merge commits into the main branch), you can easily search commit history using any parameter, you easily run cherry picking and view a graphical diff between branches.
 	 - Database tools:
+	 	- Dbeaver: A powerful open source Database client IDE
