@@ -1,3 +1,4 @@
+
 # Developer Cheat-list
 These are compilations of commands and tools i use in solving the issues:
 
@@ -22,6 +23,10 @@ These are compilations of commands and tools i use in solving the issues:
 	 - I mostly use the telnet utility tool to check for remote connectivity of servers either with hostname or ip with their port numbers. Telnet utility allows users to test connectivity to remote machines and issue commands through the use of a keyboard. Though most users opt to work with graphical interfaces, Telnet is one of the simplest ways to check connectivity on certain ports.
 	 - the beauty of telnet is that is could run on almost every single OS that i know of (although some of them do not have telnet installed b default)
 	 - basically you can use telnet to test maybe a port is open or not or even if the server is reachable all you need is just run the following: `telnet rpc.acronis.com 443` for example, the command checks if port 443 is open and rpc.acronis.com is connectible as well. another example is like trying to test if you can connect to a mysql server: `telnet mydb 3306` where mydb is mysql host or IP and 3306 is the standard mysql port
+ - **Software Engineering Best Standards and practices**
+	 - https://12factor.net/
+ - **Readme/Markdown editor**
+	 - https://stackedit.io/
  - **Developer software starter kit:**
 	 - IDE
 		 - Jetbrain IDE's (webstorm, phpstorm, goland):  since i worked extensively with PHP, here are my favourite tools/plugins i use mostly in PHPstorm (you could also find some of them on jetbrains related products ). some of them are downloadable plugins while some of them exist by default in the 
